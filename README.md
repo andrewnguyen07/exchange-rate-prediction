@@ -7,5 +7,7 @@ Context: I'm not formally trained or with higher degree in data science and this
 Agenda:
 
 Part 1: Explanatory Data Analysis (EDA) & Data Visualisation (Bonus: Hypothesis Testing)
+
 Part 2: Machine Learning with 4 Regression Models
+
 Part 3: Machine Learning (cont.) with ARIMA
