@@ -6,17 +6,6 @@ Context: I'm not formally trained or with higher degree in data science and this
 
 Agenda:
 
-A. Explanatory Data Analysis (EDA) - part 1
-
-B. Data Visualisation - part 1
-
-C. Hypothesis Testing - part 1
-
-D. Machine Learning - part 2
-  1. Linear Regression
-  2. Multiple Linear Regression
-  3. Polynomial Regression
-
-E. Machine Learning (cont.) - part 3
-  1. Stationary Testing
-  2. ARIMA
+Part 1: Explanatory Data Analysis (EDA) & Data Visualisation (Bonus: Hypothesis Testing)
+Part 2: Machine Learning with 4 Regression Models
+Part 3: Machine Learning (cont.) with ARIMA
