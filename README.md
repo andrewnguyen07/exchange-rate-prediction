@@ -32,5 +32,5 @@ As a summary, the dataset provides the exchange rates across countries which hav
 * Part 3: Machine Learning: Time Series Forecasting with ARIMA
 
 ## Output
-![output](https://ibb.co/RQ24mjR)
+![output](https://github.com/andrewnguyen07/exchange-rate-prediction/blob/master/exchange%20rate%20prediction%20output.png)
 
